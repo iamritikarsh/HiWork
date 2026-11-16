@@ -4,17 +4,17 @@ import './Pricing.css';
 
 const STARTER_FEATURES = [
   'Relevant job recommendations',
-  'Up to 2 recommendations each week',
+  'Up to 5 recommendations each week',
   '1 tailored CV each week, when required details are provided',
   'Job-search setup',
   'Email support and monthly reminders',
 ];
 
 const GROWTH_FEATURES = [
-  'Up to 5 recommendations each week',
+  'Up to 10 recommendations each week',
   'Tailored CV support within agreed limits',
   '1 tailored cover letter in the initial package',
-  'Resume review, skill-gap analysis, WhatsApp support and reminders',
+  'Resume review',
   'Skill gap',
   'WhatsApp and reminder',
 ];

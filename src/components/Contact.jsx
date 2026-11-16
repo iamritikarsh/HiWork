@@ -123,7 +123,7 @@ export default function Contact() {
         `Message: ${form.message || 'No additional message'}`,
       ].join('%0A');
 
-      const mailtoUrl = `mailto:harshdabas0987@gmail.com?subject=Hiwork%20enquiry&body=${body}`;
+      const mailtoUrl = `mailto:hiwork.harsh@gmail.com?subject=Hiwork%20enquiry&body=${body}`;
       try {
         const mailLink = document.createElement('a');
         mailLink.href = mailtoUrl;
@@ -163,8 +163,8 @@ export default function Contact() {
             </p>
             <p className="contact-links">
               Or email{' '}
-              <a href="mailto:harshdabas0987@gmail.com" className="contact-link">
-                harshdabas0987@gmail.com
+              <a href="mailto:hiwork.harsh@gmail.com" className="contact-link">
+                hiwork.harsh@gmail.com
               </a>
               {' '}|{' '}
               WhatsApp{' '}
