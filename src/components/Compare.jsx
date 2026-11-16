@@ -6,13 +6,13 @@ const FEATURES = [
   {
     name: 'Recommendations',
     starter: {
-      value: '2',
+      value: '5',
       caption: 'per week',
       included: true,
-      meter: 40,
+      meter: 50,
     },
     growth: {
-      value: 'Up to 5',
+      value: 'Up to 10',
       caption: 'per week',
       included: true,
       meter: 100,
